@@ -30,12 +30,14 @@ This is my code hub where i store my practice and working project for testing an
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20' height='20'></a> 
 
+## 🥇 My Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhomedia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhomedia&show_icons=true&count_private=true) 
+## 📰 Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhomedia&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhomedia) 
 
+## 🔗 My Repo Language Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhomedia)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhomedia)  
 
 ![Profile views](https://gpvc.arturio.dev/shubhomedia)  
