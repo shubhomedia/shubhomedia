@@ -4,7 +4,7 @@
 #### Full-Stack Developer | Data Science Enthusiast 
 This is my code hub where i store my practice and working project for testing and showcasing purpose. 
 
-- 🔭 I’m currently working on Keya Cosmetics Ltd. 
+- 🔭 I’m currently working at Britannia Innovation Ltd. 
 - 🌱 I’m currently learning React.JS 
 - 📫 How to reach me: My Email 
 - ⚡ Fun fact: Data Never Lie 
