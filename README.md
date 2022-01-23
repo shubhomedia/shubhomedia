@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/shubhomedia/shubhomedia/main/Github%20Profile%20Header.png" alt="banner that says Owes Shubho - software developer, artist, designer">
-<img src='https://simpleicons.org/icons/wordpress.svg' alt='github' height='20'>(https://shubho.info)
 ## Hi there 👋, My Name Is MD. Owes Shubho
 #### Full-Stack Developer | Data Science Enthusiast 
 This is my code hub where i store my practice and working project for testing and showcasing purpose. 
