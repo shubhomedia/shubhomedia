@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/QGxifV9.png" alt="banner that says Owes Shubho - software developer, artist, designer">
-## Hi there 👋, My Name Is MD. Owes Shubho
-#### SAP BASIS Consultant | Full-Stack Developer | Data Science Enthusiast 
+
+## Hi there 👋, This Is MD. Owes Quruny Shubho
+### SAP BASIS Consultant | Full-Stack Developer | Data Science Enthusiast 
 This is my code hub where i store my practice and working project for testing and showcasing purpose. 
 
 - 🔭 I’m currently working at Eitekh ERP Ltd. 
